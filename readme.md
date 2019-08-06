@@ -1,7 +1,10 @@
 # Carrera de Inteligencia Artificial
-Platzi - Juan Pablo Morales (JuanpaMF)
-Por: David Alonso Rueda Rodríguez (daruedar@correo.udistrital.edu.co)
+
 Curso: Machine Learning Aplicado con Python
+Platzi - Juan Pablo Morales [@JuanpaMF](@JuanpaMF)
+
+Actividad desarrollada por: David Alonso Rueda Rodríguez (daruedar@correo.udistrital.edu.co)
+
 
 ## Objetivo
 
@@ -9,9 +12,9 @@ Aplicar conocimientos adquiridos luego de seguir el Curso de Machine Learning Ap
 
 ## Fuente de datos
 
-Los datos fueron descargados desde el repositorio git dispuesto por el profesor del curso
+Los datos fueron descargados desde el repositorio git dispuesto por el profesor del curso [https://github.com/JuanPabloMF/datasets-platzi-course](https://github.com/JuanPabloMF/datasets-platzi-course)
 
-## Temas a trabajarse
+## Temas Trabajados
 
 - Definición del problema
 - Metodología aplicada
@@ -26,4 +29,4 @@ Los datos fueron descargados desde el repositorio git dispuesto por el profesor 
 
 ## Desarrollo de la actividad
 
-- El archivo del curso se ha guardado en la siguiente ruta: [Acceso a cuaderno](/nb/Pl_ML_DesarrolloActividad.ipynb)
+- El archivo del curso se ha guardado en la siguiente ruta: [Ruta cuadernos](/nb/Pl_ML_DesarrolloActividad.ipynb)
